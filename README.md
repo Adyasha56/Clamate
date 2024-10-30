@@ -5,10 +5,10 @@ Clamate is a modern weather application that provides users with real-time weath
 
 ## Features
 
-- **Real-Time Weather Data**: Fetches and displays current weather conditions, including temperature, humidity, and weather descriptions.
-- **Search Functionality**: Users can easily search for weather information by entering the city name.
-- **Responsive Design**: Optimized for various devices, ensuring a seamless experience on desktops, tablets, and mobile devices.
-- **Clean User Interface**: A visually appealing layout with smooth interactions and easy navigation.
+- Real-Time Weather Data: Fetches and displays current weather conditions, including temperature, humidity, and weather descriptions.
+- Search Functionality: Users can easily search for weather information by entering the city name.
+- Responsive Design: Optimized for various devices, ensuring a seamless experience on desktops, tablets, and mobile devices.
+- Clean User Interface: A visually appealing layout with smooth interactions and easy navigation.
 
 ## Technologies Used
 
