@@ -1,0 +1,11 @@
+.Searchbox {
+    text-align: center;
+    margin: 0.5rem 0; /* Reduced vertical space */
+  }
+  
+  .Searchbox input {
+    padding: 0.5rem; /* Padding for the input field */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
