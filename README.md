@@ -12,13 +12,13 @@ Clamate is a modern weather application that provides users with real-time weath
 
 ## Technologies Used
 
-- **Frontend**: 
+- Frontend: 
   - React
   - Vite
   - Material-UI
-- **API**: 
+- API: 
   - OpenWeatherMap API
-- **Styling**: 
+- Styling: 
   - CSS
 
 ## Getting Started
@@ -64,17 +64,13 @@ To run Clamate locally, follow these steps:
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to create an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - A big thank you to the [OpenWeatherMap API](https://openweathermap.org/api) for providing the weather data.
-- Thanks to the community for inspiration and support.
 
----
 
-Feel free to customize the content to better fit your project's specifics and add any additional sections as needed, like screenshots, usage examples, or FAQs!
-``` 
+
+
 
